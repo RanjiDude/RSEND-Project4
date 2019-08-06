@@ -7,6 +7,9 @@ Map My World! Project - Using a Mobile Robot to map an environment
 <img src="images/loop1.png" width="50%" align="top-left" alt="" title="db" />
 <img src="images/loop2.png" width="50%" align="top-left" alt="" title="loopclosure" />
 
+### Robot's World
+<img src="images/LocalizedRobot1_Gazebo.png" width="50%" align="top-left" alt="" title="world" />
+
 ### Mapped Area
 <img src="images/map.png" width="50%" align="top-left" alt="" title="map" />
 
