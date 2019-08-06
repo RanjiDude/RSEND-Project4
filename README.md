@@ -10,6 +10,9 @@ Map My World! Project - Using a Mobile Robot to map an environment
 ### Robot's World
 <img src="images/LocalizedRobot1_Gazebo.png" width="50%" align="top-left" alt="" title="world" />
 
-### Mapped Area
+### 2D Map
 <img src="images/map.png" width="50%" align="top-left" alt="" title="map" />
+
+### 3D Map
+<img src="images/pc.png" width="50%" align="top-left" alt="" title="pointcloud" />
 
